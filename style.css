@@ -128,7 +128,7 @@ z-index: 1;
     border-radius: 50%;
     background-image: url('img/user6.png');
     background-size: contain;
-    background-repeat: none;
+    background-repeat: no-repeat;
 }
 
 .name {
@@ -149,7 +149,7 @@ z-index: 1;
     border-radius: 50%;
     background-image: url('img/user6.png');
     background-size: contain;
-    background-repeat: none;
+    background-repeat: no-repeat;
     margin: 8px;
 }
 .profile-info {
